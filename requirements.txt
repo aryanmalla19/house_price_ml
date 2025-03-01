@@ -1,6 +1,6 @@
-numpy
-pandas
+numpy==1.26.4
+pandas==2.2.3
 scikit-learn==1.2.2
-xgboost
-catboost
-lightgbm
+xgboost==2.1.4
+catboost==1.2.7
+lightgbm==4.6.0
